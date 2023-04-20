@@ -11,3 +11,5 @@ Tries to access Qb for questions and supplies them to the student
 links
 https://stackoverflow.com/questions/7016249/compiling-java-from-python
 https://pythonprogramming.net/sockets-tutorial-python-3/
+https://flask.palletsprojects.com/en/2.2.x/
+
